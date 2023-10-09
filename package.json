@@ -1,5 +1,5 @@
 {
-    "name": "engineer-training-deliverables-application",
+    "name": "test-engineer-training-deliverables-application",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -49,5 +49,5 @@
             "last 1 safari version"
         ]
     },
-    "homepage": "https://stainless.dreamarts.github.io/engineer-training-deliverables-application"
+    "homepage": "https://aki-743.github.io/test-engineer-training-deliverables-application"
 }
